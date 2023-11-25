@@ -1,0 +1,26 @@
+body{
+    font-family: Verdana;
+    }
+
+  article {
+        background-color: white;
+        border: 1px solid grey;
+        margin: 5px;
+       padding: 8px;
+    }
+      
+    header, footer {
+        color: white;
+        background-color: white;
+        border: 1px solid grey;
+        margin: 5px;
+        padding: 8px;
+      }
+      
+      section {
+        border: 1px solid grey;
+        margin: 5px;
+        padding: 8px;
+        background-color: #ddd;
+      }
+      
